@@ -5,7 +5,9 @@ featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+"How to incrementally adopt microservices?" Many organizations that want to adopt microservices already have a monolithic application. How to uae **Strangler application pattern** and incrementally migrate function from the monolith into services.
+
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
