@@ -1,11 +1,11 @@
-# Jekyll Serif Theme
+# KafkaCake
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-[Live Demo](https://jekyll-serif.netlify.app/) | 
-[Zerostatic Themes](https://www.zerostatic.io)
+ 
+[KafkaCake](http://www.kafkacake.com)
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+![KafkaCake Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
 
 ### Theme features
 

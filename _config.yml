@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'KafkaCake'
 
 logo:
   mobile: "images/logo/logo.svg"
