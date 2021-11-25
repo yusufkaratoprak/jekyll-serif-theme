@@ -2,7 +2,7 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "What is SRE Consultancy?"
+  - name: "Why SRE Consultancy?"
     url: "/team/"
     weight: 3
   - name: "About"
