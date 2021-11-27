@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Automation Consultancy",
-    "description": "All members of our team are certified accountants.",
+    "title": "Plans",
+    "description": "All steps for our consultancy are planning together with clients",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,7 +18,7 @@
     }
   },
   {
-    "title": "MiddleWare Consultancy",
+    "title": "Price",
     "description": "We stay up to date on the latest changes to the tax code.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
