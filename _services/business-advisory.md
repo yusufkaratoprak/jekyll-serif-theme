@@ -5,8 +5,15 @@ featured: true
 weight: 2
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
+MLOps and DataOps are a totally big foot for Big Data World! Machine learning operations needs AI lifecycle for its production.
+
+
+
+
+
+
+
+[caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
 quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
 laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
