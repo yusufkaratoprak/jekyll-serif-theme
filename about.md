@@ -12,6 +12,8 @@ but our story is based on Apache kafka and cake rather than the author kafka.
 
 Yeah! The world is developing. It is growing and communication has become very important in our age. Not only between people, but also between the technologies that people have made, communication needs to be seamless and uninterrupted. In our age, which has moved to the clouds, imagine a cake in which there are many tiny services (grapes) in each system. We will try to understand and explain this here.
 
+As a result, our goal is to support our customers on SRE and provide them with a roadmap for their SRE adventure.
+
 <!-- 1. Cum det dixit Parcarum qui spemque est
 2. Exit ex huic
 3. Quod consiste agitataque claustraque vicina videt lacertis
