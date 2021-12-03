@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+As traffic increases on your website, delays and bottlenecks will occur. As the number of services and the amount of incoming requests increase, it is inevitable that problems will occur. Here, the kafkacake team will provide you with the necessary assistance.
