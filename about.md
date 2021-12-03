@@ -5,17 +5,14 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Of course, not every company has to have a story,
+but our story is based on Apache kafka and cake rather than the author kafka.
 
-## Ne verba patulosque numen vix libet
+## Where did this Cake come from?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Yeah! The world is developing. It is growing and communication has become very important in our age. Not only between people, but also between the technologies that people have made, communication needs to be seamless and uninterrupted. In our age, which has moved to the clouds, imagine a cake in which there are many tiny services (grapes) in each system. We will try to understand and explain this here.
 
-1. Cum det dixit Parcarum qui spemque est
+<!-- 1. Cum det dixit Parcarum qui spemque est
 2. Exit ex huic
 3. Quod consiste agitataque claustraque vicina videt lacertis
 4. Loquor videt
@@ -49,4 +46,4 @@ Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+tamen lentis spectat, Titania est animo. -->
