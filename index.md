@@ -14,4 +14,4 @@ show_call_box: true
 To Find BottleNecks,
 via Creating Alert And Notification Infrastructure" 
 
- -SRE Manifest of KafkaCake Team 
+ -Manifest of SRE Consultancy Team
