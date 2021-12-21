@@ -8,4 +8,3 @@ Automation with GitOps concepts will help us for a more reliable environment.
 
 ![Automation Services -fullwidth](/images/automation.png)
 
-![test image size]<img src="/images/automation.png/" width="3400" height="3790">
