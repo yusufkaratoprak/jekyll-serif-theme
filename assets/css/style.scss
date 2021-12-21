@@ -70,3 +70,8 @@ body {
     line-height: 1.3;
   }
 }
+
+img[alt$="-fullwidth"]{
+  width:  100%;
+  display: block;
+}
