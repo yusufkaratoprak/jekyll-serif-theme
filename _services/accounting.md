@@ -9,5 +9,5 @@ Automation with GitOps concepts will help us for a more reliable environment.
 
 
 
-![Accounting Services -fullwidth](/images/automation.png)
+![Accounting Services](/images/automation.png)
 
