@@ -7,7 +7,7 @@ layout: service
 ---
 
 Site reliability  **highly reliable software system**,  
-engineering is a set of principles and practices that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and zero Downtime systems.
+engineering is a set of principles and practices that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and zero downtime systems.
 - Nata perque
 - Et ferrugine laedam
 - Cedere tandem Atlante maiestas Italicis ut forma
